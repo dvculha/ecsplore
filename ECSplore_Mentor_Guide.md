@@ -23,3 +23,7 @@ This is a 4-week program starting the week of August 19 and coming to an end wit
 
 ### Communication: 
 As mentioned above, mentors can communicate with their mentees via any way of communication at any time during the specified weeks. The time and the means of communication depends on the accessibility and convenience for both the mentee and the mentor. It is not at all a requirement to be in Montreal however we do require that your communication be of verbal form such as phone calls, facetime, skype, facebook calls or in person if you are in the same city! The mentor will reach out to the mentee to arrange the first meeting.
+
+## Suggested Timeline and Guide: 
+Below is a suggested timeline of topics to discuss between the mentor and mentee, throughout the 4 weeks. Remeber this is just a suggestion and it’s nice to have in case you have difficulty finding topics to discuss or have difficulty finding answers for some questions! Each mentor and mentee is different and thus might want to get advice on different topics! Please please please feel free to branch away from the topics outlined and include your own topics, answer questions your own way, talk about your own experiences and give your personal tips and tricks! Don’t feel pressured to cover everything on this guide too, make this a very personalised experience!
+
