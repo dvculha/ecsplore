@@ -24,11 +24,11 @@ This is a 4-week program starting the week of August 19 and coming to an end wit
 ### Communication: 
 As mentioned above, mentors can communicate with their mentees via any way of communication at any time during the specified weeks. The time and the means of communication depends on the accessibility and convenience for both the mentee and the mentor. It is not at all a requirement to be in Montreal however we do require that your communication be of verbal form such as phone calls, facetime, skype, facebook calls or in person if you are in the same city! The mentor will reach out to the mentee to arrange the first meeting.
 
-## Suggested Timeline and Guide: 
+### Suggested Timeline and Guide: 
 Below is a suggested timeline of topics to discuss between the mentor and mentee, throughout the 4 weeks. Remeber this is just a suggestion and it’s nice to have in case you have difficulty finding topics to discuss or have difficulty finding answers for some questions! Each mentor and mentee is different and thus might want to get advice on different topics! Please please please feel free to branch away from the topics outlined and include your own topics, answer questions your own way, talk about your own experiences and give your personal tips and tricks! Don’t feel pressured to cover everything on this guide too, make this a very personalised experience!
 
-### Week 1 (August 19-August 26)
-### Introductions, Icebreakers, Transition to University
+#### Week 1 (August 19-August 26)
+#### Introductions, Icebreakers, Transition to University
 
 * Fun facts? 
     * *lol* 
@@ -51,8 +51,8 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Which laptop is most suitable for ECSE classes?
     * *Don’t need a specific type of laptop but you will probably need a computer for your coding classes! There are computers in Trottier and in libraries too.*
 
-###Week 2 (August 27 - September 4)
-###Academics and Internships
+#### Week 2 (August 27 - September 4)
+#### Academics and Internships
 
 * Which classes are you taking? 
     * *It is a good idea to ask your mentee which classes they are taking and give advice specific to those classes.*
@@ -69,3 +69,24 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
     * *Don’t take anything personally - keep the end goal in mind. Accept criticism, it’s a learning experience. Everyone wants to succeed, no one is trying to ruin your group lolol*
 * Landing an internship? 
     * *Talk with your mentee about your internship experiences if you have had any, getting an internship in first year is very hard but possible, and mention useful resources which can help them land an internship such as Techfair, myFuture and MESC*
+
+#### Week 3 (September 4 - September 11)
+#### Involvement, Extra-curriculars, and Social Life
+
+* Activities to get involved in McGill and in EUS and how to apply? 
+    * *SSMU Activity Night and EUS Involvement Day to find out about all the design teams, committees, clubs, varsity sports, cultural clubs etc. and EUS Job Board to see which ones are recruiting at the moment and how to apply! One of the best ways to get involved is to apply for the first year specific committees such as ECSESS First Year Committee or EUS Junior Council Committee! Tell them it is okay to get rejected from positions, don’t let it break your motivation!*
+* What activities are you involved in at McGill? 
+    * *Talk specifically about sports, research, hobbies any and all things you love to do in your free time in McGill and Montreal!*
+* Why should someone get involved? 
+    *Meeting people, finding your interests, fun, filling your free time!*
+* How do I meet people? 
+    * *Frosh, getting involved, design teams, meeting a study buddy in class, participating in events etc.*
+* Memorable events at McGill? 
+    * *Don't forget to have fun! Do the big events! Blues Pubs, MERTW, E-Week (frosh-style competition between departments in the winter)*
+* How to stay informed with events going on?
+    * *Read ECSESS listserv and EUS pipeline, follow facebook pages of ECSESS, clubs, committees*
+* Cheap activities in Montreal? 
+    * *Bixi, free museum day, mention most ECSESS events are free and they can apply for ECSESS bursaries if in financial difficulties*
+
+
+
