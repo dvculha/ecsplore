@@ -113,7 +113,11 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 
 
 **THE END**
+
 **THANKS AGAIN FOR SIGNING UP TO BECOME A MENTOR, I REALLY APPRECIATE IT :)**
+
 **HOPE YOU ENJOY THIS PROGRAM AND SEE YOU AT MENTOR-MENTEE SOCIAL!**
+
 **IF YOU HAVE ANY QUESTIONS THROUGH THIS PROGRAM, PLEASE CONTACT [DAFNE](ecsess.vpinternal@mcgilleus.ca) OR [SABRINA](ecsess.vpadmin@mcgilleus.ca)!**
+
 **LOVE YOU GUYS!!! - DAFNE, SABRINA, SOFIA, KELLY, AMMAR**
