@@ -114,5 +114,5 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 
 ##### THE END ~~~ HOPE YOU ENJOY THIS PROGRAM AND SEE YOU AT MENTOR-MENTEE SOCIAL!
 ##### THANKS AGAIN FOR SIGNING UP TO BECOME A MENTOR, I REALLY APPRECIATE IT :)
-###### LOVE YOU GUYS!!! - DAFNE, SABRINA, SOFIA, KELLY, AMMAR
+###### LOVE YOU GUYS!!! - [DAFNE](https://github.com/dvculha), SABRINA, SOFIA, [KELLY](https://github.com/kellydanma), [AMMAR](https://github.com/Lexfinity)
 
