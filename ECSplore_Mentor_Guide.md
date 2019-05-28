@@ -114,8 +114,11 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 
 ### Conclusion Remarks
 Thanks again for signing up to become a mentor, I really appreciate it :)
+
 I hope you enjoy this program and see you at the Mentor-Mentee Social!
+
 If you have any questions through this program, please contact Dafne (ecsess.vpinternal@mcgilleus.ca) or Sabrina (ecsess.vpadmin@mcgilleus.ca)
+
 LOVE YOU GUYS, HAVE A GREAT SUMMER!!!
 
 - DAFNE, SABRINA, KELLY, SOFIA, AMMAR
