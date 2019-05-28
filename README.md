@@ -1,5 +1,4 @@
 <img src="assets/1024px-Ecsess_logo.png" alt="ECSESS Logo" height="100" />
-
 # ECSplore
 
 - Everything related to ECSPlore 2019 will be listed here
