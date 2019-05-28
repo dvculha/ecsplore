@@ -11,21 +11,21 @@ This is a 4-week program starting the week of August 19 and coming to an end wit
 ### Expectations from Mentors
 **PLEASE READ**
 
-* As a mentor, your role is to provide support and advice to your mentee as well as answering any questions they might have through these 4 weeks! Don't be afraid to give your honest opinion on academics (which classes to take, profs you don't like etc.), finding internships, involvement, social life, wellness and many more topics you might want to discuss! We prepared a guideline to guide you on which topics you might want to discuss with your mentee but you are **more than welcome** to discuss your own topics and follow your own branch!
+* As a mentor, your role is to provide support and advice to your mentee as well as answering any questions they might have through these 4 weeks (and beyond if you wish to)! Don't be afraid to give your honest opinion on academics (which classes to take, profs you don't like etc.), finding internships, involvement, social life, wellness and many more topics you might want to discuss! We prepared a guideline to guide you on which topics you might want to discuss with your mentee but you are **more than welcome** to discuss your own topics and follow your own branch!
 
 * Once you receive an email with the name of your mentee, please contact them as soon as possible via email and introduce yourself. Please CC me (ecsess.vpinternal@mcgilleus.ca) on that email so I can ensure the mentorship has started between you and your mentee! :blush:
 
 * You should take the initiative to decide on the mean of communication. Please contact your mentee to arrange the first meeting and the other meetings! The form of communication can be of any form and at any time during the specified weeks, whichever is the most accessible and convenient for both the mentor and the mentee. However, I ~~require~~ **kindly ask and strongly encourage** that you meet with your mentee at least once every week for 20-30 minutes throughout these 4 weeks and that your communication is of a verbal form. Phone calls, skype, facetime, meeting at a cafe are some of my recommendations! 
 
-* We will be organising a mentor-mentee social at the end of the program and you are expected to come to it! You will get to meet with your mentees in person if all your conversations were on skype or on phone! This is also a chance to meet other mentors and incoming ECSE students aka your classmates and your future/past ECSE 211 lab partners! See you there! 
+* There will be a mentor-mentee social at the end of the program and you are expected to come to it! You will get to meet with your mentees in person if all your conversations were on skype or on phone! This is also a chance to meet other mentors and incoming ECSE students aka your classmates and your future/past ECSE 211 lab partners! 
 
 * I recommend keeping in touch with your mentees after the program ends as well! Maybe invite them to Blues Pub, come with them to the upcoming ECSESS events (*cough cough* hinting at pancake breakfasts and socials)! I hope you build a lasting friendship with your mentees!
 
 ### Communication: 
-As mentioned above, mentors can communicate with their mentees via any way of communication at any time during the specified weeks. The time and the means of communication depends on the accessibility and convenience for both the mentee and the mentor. It is not at all a requirement to be in Montreal however we do require that your communication be of verbal form such as phone calls, facetime, skype, facebook calls or in person if you are in the same city! The mentor will reach out to the mentee to arrange the first meeting.
+As mentioned above, mentors can communicate with their mentees via any way of communication at any time during the specified weeks. The time and the means of communication depends on the accessibility and convenience for both the mentee and the mentor. It is not at all a requirement to be in Montreal however we do ~~require~~ **kindly ask and strongly encourage** that your communication be of verbal form such as phone calls, facetime, skype, facebook calls or in person if you are in the same city! The mentor will reach out to the mentee to arrange the first meeting.
 
 ### Suggested Timeline and Guide: 
-Below is a suggested timeline of topics to discuss between the mentor and mentee throughout the 4 weeks. Remember this is just a suggestion, please don’t feel pressured to follow this guide! Each mentor and mentee is different so obviously topics to be discussed will vary. This guide is just nice to have in case you have difficulty finding topics and to avoid awkward silences during your conversations with your mentees. PLEASE PLEASE PLEASE make this mentorship as personalised as possible, share your own tips and tricks and remember you absolutely don’t have to follow this guide! :)
+Below is a suggested timeline of topics to discuss between the mentor and mentee throughout the 4 weeks. Remember this is just a suggestion, please don’t feel pressured to follow this guide! Each mentor and mentee is different so obviously topics to be discussed will vary. This guide is just nice to have in case you have difficulty finding topics and to avoid awkward silences during your conversations with your mentees lolol. PLEASE PLEASE PLEASE make this mentorship as personalised as possible, share your own tips and tricks and remember you absolutely don’t have to follow this guide! :)
 
 
 #### Week 1 (August 19-August 26)
@@ -42,7 +42,7 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Residence experience?
     * *Living with roommates? Was it loud? Dining halls? Talk about your experience!*
 * Commuting? 
-    * *Is moving downtown worth it even if my parents are living in the same city?* 
+    * *Is moving downtown worth it even if you have parents are living in the same city?* 
 * One piece of advice you wish you knew before you started university?
 * What is Frosh?
     * *DO IT!! So much fun and a great way to meet with new friends and facilitate your orientation!*  
@@ -101,7 +101,7 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Staying organized during the semester? 
     * *EUS Handbook is also an agenda, using Google Calendar, communicating over Slack, scheduled study breaks, eating healthy, setting goals and timelines (check out Notion.so!), your personal tips and tricks*
 * Balancing school, work, and involvement?
-* *Knowing your limits/don’t take on too much, setting aside study time on your calendar, reducing your work hours at first (and then add on more if you can handle it), quitting your part-time job for the first semester of university, arriving/leaving campus early to avoid rush hour if commuting!*
+    * *Knowing your limits/don’t take on too much, setting aside study time on your calendar, reducing your work hours at first (and then add on more if you can handle it), quitting your part-time job for the first semester of university, arriving/leaving campus early to avoid rush hour if commuting!*
 * How do you destress? 
     * *Here are some ideas: hanging out with friends once a week and forgetting school, meditation, drinking tea, chilling in the lounge, eating, exercising, joining a fun extracurricular*
 * Some resources for mental health and wellness?
