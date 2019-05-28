@@ -110,3 +110,7 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
     * *There are always free tampons at the General Store (EUS Mall area) and in select washrooms on campus. The G-Store sometimes provides bandaids, toothbrushes, deodorant, dry shampoo, shaving cream, etc. The ECSESS Lounge also has a Healthy McGill basket that is stocked with free things! MK offers free meals Mon-Thu (vegan) in the SSMU building, when it eventually opens again. Follow EUS events on FB; often, there is free or cheap food on campus.*
 
 
+##### THE END ~~~ HOPE YOU ENJOY THIS PROGRAM AND SEE YOU AT MENTOR-MENTEE SOCIAL!
+##### THANKS AGAIN FOR SIGNING UP TO BECOME A MENTOR, I REALLY APPRECIATE IT :)
+###### LOVE YOU GUYS!!! - DAFNE, SABRINA, SOFIA, KELLY, AMMAR
+
