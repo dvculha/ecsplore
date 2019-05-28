@@ -20,5 +20,38 @@ Although online applications work out for some, the best thing you can do is to 
 
 - [HackerRank](https://www.hackerrank.com/)
 - [LeetCode](https://leetcode.com/)
+- [The University Coding Interview](https://github.com/jwasham/coding-interview-university): We don't necessarily endorse this guide, but a lot of people use it to prepare for interviews
 
 You can ask your mentor about their experience with technical or behavioural interviews, too!
+
+## Academics
+
+### Study Rooms on Campus
+
+There are a number of areas you can reserve as a student. Whether you need it for a group project or quiet study, check out these options:
+- [Trottier 5th Floor Rooms]():
+- [McLennan Rooms]():
+
+### Productivity & Organization
+
+- [Google Calendar]():
+- [Slack]():
+- [Notion]():
+
+### Resources
+
+- [Free programming books](https://github.com/EbookFoundation/free-programming-books): this repository has *SO many* free textbooks!
+
+## ECSESS
+
+ECSESS is the Electrical, Computer, Software Engineering Student's Society. We have a lounge in **Trottier 1060** that is open weekdays from 10am - 4pm, or whenever a council member is present. To learn more about our student society, check out the [EUSWiki](https://eus.wiki/Electrical,_Computer,_and_Software_Engineering_Student_Society).
+
+### Getting Involved
+
+There are a number of ways to get involved on campus!
+
+- [Activities' Night](https://www.facebook.com/SSMUAEUM/): A huge fair with tons of clubs on campus; follow SSMU to stay up to date!
+- [EUS Job Board](https://eus.wiki/Job_Board): Lists current open positions within the Engineering Undergraduate Society (EUS)
+- [EUS Involvement Day]()
+
+You can also stay up to date with the [ECSESS Facebook Page](https://www.facebook.com/ECSESS/) to hear about involvement opportunities and exciting socials brought to you by your departmental student society.
