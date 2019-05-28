@@ -1,4 +1,4 @@
-# ECSplore 2019 Mentor Guide
+# ECSplore 2019 Mentee Guide
 
 Hi there! First of all, welcome to our department! We are so excited you will be joining us this fall. Furthermore, you made a great choice participating the ECSplore program, it will be super beneficial for you! 
 
