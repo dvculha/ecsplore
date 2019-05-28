@@ -1,6 +1,6 @@
 # ECSplore 2019 Mentor Guide
 
-Bonjour hi! First of all, thank you so so so much for signing up to be a mentor! You’re helping to make ECSESS a better community.
+Bonjour hiiii! First of all, thank you so so so much for signing up to be a mentor! You’re helping to make Electrical, Computer, Software Engineering Student Society a better community.
 
 
 ## Program Overview
