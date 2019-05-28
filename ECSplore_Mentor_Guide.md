@@ -27,8 +27,8 @@ As mentioned above, mentors can communicate with their mentees via any way of co
 ## Suggested Timeline and Guide: 
 Below is a suggested timeline of topics to discuss between the mentor and mentee, throughout the 4 weeks. Remeber this is just a suggestion and it’s nice to have in case you have difficulty finding topics to discuss or have difficulty finding answers for some questions! Each mentor and mentee is different and thus might want to get advice on different topics! Please please please feel free to branch away from the topics outlined and include your own topics, answer questions your own way, talk about your own experiences and give your personal tips and tricks! Don’t feel pressured to cover everything on this guide too, make this a very personalised experience!
 
-###Week 1 (August 19-August 26)
-###Introductions, Icebreakers, Transition to University
+### Week 1 (August 19-August 26)
+### Introductions, Icebreakers, Transition to University
 
 * Fun facts? 
     * *lol* 
@@ -51,3 +51,21 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Which laptop is most suitable for ECSE classes?
     * *Don’t need a specific type of laptop but you will probably need a computer for your coding classes! There are computers in Trottier and in libraries too.*
 
+###Week 2 (August 27 - September 4)
+###Academics and Internships
+
+* Which classes are you taking? 
+    * *It is a good idea to ask your mentee which classes they are taking and give advice specific to those classes.*
+* Study places around campus?
+    * *#ripSchulich, McLennan, Common Room, Trottier 5, Concordia Webster Library, MC-10, Cafes, or any other places you discovered around campus to study*
+* Some useful Resources when having difficulty in classes? 
+    * *CSUS Help Desk for ECSE 202 and COMP 250, EPTS for MATH classes and 200 Level ECSE Classes, TAs, office hours*
+* Academic advisors? 
+    * *Meet with your advisors about specific academic things if you want to drop a class, manage your course schedule, etc.*
+* Any study tips and tricks? 
+    * *Practice past finals, learn how your professor designs tests. Study in groups, you can bounce ideas off friends.*
+* Harder classes, easy electives?
+* Group projects? 
+    * *Don’t take anything personally - keep the end goal in mind. Accept criticism, it’s a learning experience. Everyone wants to succeed, no one is trying to ruin your group lolol*
+* Landing an internship? 
+    * *Talk with your mentee about your internship experiences if you have had any, getting an internship in first year is very hard but possible, and mention useful resources which can help them land an internship such as Techfair, myFuture and MESC*
