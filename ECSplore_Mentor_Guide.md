@@ -8,7 +8,7 @@ This new program is to welcome incoming ECSIES to McGill and facilitate their in
 
 This is a 4-week program starting the week of August 19 and coming to an end with a **FUN** mentor-mentee social in September 19! 
 
-### Expectations from Mentors
+## Expectations from Mentors
 **PLEASE READ**
 
 * As a mentor, your role is to provide support and advice to your mentee as well as answering any questions they might have through these 4 weeks (and beyond if you wish to)! Don't be afraid to give your honest opinion on academics (which classes to take, profs you don't like etc.), finding internships, involvement, social life, wellness and many more topics you might want to discuss! We prepared a guideline to guide you on which topics you might want to discuss with your mentee but you are **more than welcome** to discuss your own topics and follow your own branch!
@@ -21,10 +21,10 @@ This is a 4-week program starting the week of August 19 and coming to an end wit
 
 * I recommend keeping in touch with your mentees after the program ends as well! Maybe invite them to Blues Pub, come with them to the upcoming ECSESS events (*cough cough* hinting at pancake breakfasts and socials)! I hope you build a lasting friendship with your mentees!
 
-### Communication: 
+## Communication: 
 As mentioned above, mentors can communicate with their mentees via any way of communication at any time during the specified weeks. The time and the means of communication depends on the accessibility and convenience for both the mentee and the mentor. It is not at all a requirement to be in Montreal however we do ~~require~~ **kindly ask and strongly encourage** that your communication be of verbal form such as phone calls, facetime, skype, facebook calls or in person if you are in the same city! The mentor will reach out to the mentee to arrange the first meeting.
 
-### Suggested Timeline and Guide: 
+## Suggested Timeline and Guide: 
 Below is a suggested timeline of topics to discuss between the mentor and mentee throughout the 4 weeks. Remember this is just a suggestion, please don’t feel pressured to follow this guide! Each mentor and mentee is different so obviously topics to be discussed will vary. This guide is just nice to have in case you have difficulty finding topics and to avoid awkward silences during your conversations with your mentees lolol. PLEASE PLEASE PLEASE make this mentorship as personalised as possible, share your own tips and tricks and remember you absolutely don’t have to follow this guide! :)
 
 
@@ -112,7 +112,7 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
     * *There are always free tampons at the General Store (EUS Mall area) and in select washrooms on campus. The G-Store sometimes provides bandaids, toothbrushes, deodorant, dry shampoo, shaving cream, etc. The ECSESS Lounge also has a Healthy McGill basket that is stocked with free things! MK offers free meals Mon-Thu (vegan) in the SSMU building, when it eventually opens again. Follow EUS events on FB; often, there is free or cheap food on campus.*
 
 
-### Conclusion Remarks
+## Conclusion Remarks
 Thanks again for signing up to become a mentor, I really appreciate it :)
 
 I hope you enjoy this program and see you at the Mentor-Mentee Social!
