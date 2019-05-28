@@ -51,6 +51,7 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Which laptop is most suitable for ECSE classes?
     * *Don’t need a specific type of laptop but you will probably need a computer for your coding classes! There are computers in Trottier and in libraries too.*
 
+
 #### Week 2 (August 27 - September 4)
 #### Academics and Internships
 
@@ -70,6 +71,7 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Landing an internship? 
     * *Talk with your mentee about your internship experiences if you have had any, getting an internship in first year is very hard but possible, and mention useful resources which can help them land an internship such as Techfair, myFuture and MESC*
 
+
 #### Week 3 (September 4 - September 11)
 #### Involvement, Extra-curriculars, and Social Life
 
@@ -88,5 +90,23 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Cheap activities in Montreal? 
     * *Bixi, free museum day, mention most ECSESS events are free and they can apply for ECSESS bursaries if in financial difficulties*
 
+
+#### Week 4 (September 11 - September 18)
+#### Health and Wellness
+
+* Staying active at school? 
+    * *McGill gym, Mont-Royal, hiking up to Trottier, Trottier 5 spin bike garden, bixi*
+* Staying organized during the semester? 
+    * *EUS Handbook is also an agenda, using Google Calendar, communicating over Slack, scheduled study breaks, eating healthy, setting goals and timelines (check out Notion.so!), your personal tips and tricks*
+* Balancing school, work, and involvement?
+* *Knowing your limits/don’t take on too much, setting aside study time on your calendar, reducing your work hours at first (and then add on more if you can handle it), quitting your part-time job for the first semester of university, arriving/leaving campus early to avoid rush hour if commuting!*
+* How do you destress? 
+    * *Here are some ideas: hanging out with friends once a week and forgetting school, meditation, drinking tea, chilling in the lounge, eating, exercising, joining a fun extracurricular*
+* Some resources for mental health and wellness?
+    * *Mention Rossy Student Wellness Hub(they might be able to direct you to more specific resources) or the Local Wellness Advisor. Check out this [link](https://mcgill.ca/studentservices/health-wellness/rossy-hub/what) to find out more about our LWA Lauren Weber whose office is inside MESC. Mention OSVRSE (Office for Sexual Violence Response, Support and Education). You could talk about EUS Mental Health or some SSMU Clubs such as Nightline, Peer Support Center.*
+* Are there are spiritual hubs on campus? 
+    * *Yes! You can visit MORSL (McGill Official of Religious and Spiritual Life) on University/Milton; they are located on the 2nd floor of Presbyterian College, right next to University Hall*
+* What free things can I get around campus? 
+    * *There are always free tampons at the General Store (EUS Mall area) and in select washrooms on campus. The G-Store sometimes provides bandaids, toothbrushes, deodorant, dry shampoo, shaving cream, etc. The ECSESS Lounge also has a Healthy McGill basket that is stocked with free things! MK offers free meals Mon-Thu (vegan) in the SSMU building, when it eventually opens again. Follow EUS events on FB; often, there is free or cheap food on campus.*
 
 
