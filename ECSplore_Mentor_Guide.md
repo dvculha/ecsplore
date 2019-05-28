@@ -1,4 +1,4 @@
-# ECSplore First Year Mentoring Program 2019
+# ECSplore 2019 Mentor Guide
 
 Bonjour hi! First of all, thank you so so so much for signing up to be a mentor! You’re helping to make ECSESS a better community.
 
