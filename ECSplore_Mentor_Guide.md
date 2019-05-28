@@ -1,6 +1,6 @@
 # ECSplore First Year Mentoring Program 2019
 
-Bonjour hi! First of all, thank you so so so much for signing up to be a mentor! You’re helping make ECSESS a better community.
+Bonjour hi! First of all, thank you so so so much for signing up to be a mentor! You’re helping to make ECSESS a better community.
 
 
 ## Program Overview
@@ -20,3 +20,6 @@ This is a 4-week program starting the week of August 19 and coming to an end wit
 * We will be organising a mentor-mentee social at the end of the program and you are expected to come to it! You will get to meet with your mentees in person if all your conversations were on skype or on phone! This is also a chance to meet other mentors and incoming ECSE students aka your classmates and your future/past ECSE 211 lab partners! See you there! 
 
 * I recommend keeping in touch with your mentees after the program ends as well! Maybe invite them to Blues Pub, come with them to the upcoming ECSESS events (*cough cough* hinting at pancake breakfasts and socials)! I hope you build a lasting friendship with your mentees!
+
+### Communication: 
+As mentioned above, mentors can communicate with their mentees via any way of communication at any time during the specified weeks. The time and the means of communication depends on the accessibility and convenience for both the mentee and the mentor. It is not at all a requirement to be in Montreal however we do require that your communication be of verbal form such as phone calls, facetime, skype, facebook calls or in person if you are in the same city! The mentor will reach out to the mentee to arrange the first meeting.
