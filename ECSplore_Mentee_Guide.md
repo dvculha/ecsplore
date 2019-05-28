@@ -8,7 +8,7 @@ This new program is to welcome incoming ECSIES to McGill and facilitate their in
 
 This is a 4-week program starting the week of August 19 and coming to an end with a **FUN** mentor-mentee social in September 19! 
 
-### Expectations from Mentees
+## Expectations from Mentees
 **PLEASE READ**
 **_THIS PART WILLBE EDITED!)_**
 * As a mentee, your role is to provide support and advice to your mentee as well as answering any /questions they might have through these 4 weeks! Don't be afraid to give your honest opinion on academics (which classes to take, profs you don't like etc.), finding internships, involvement, social life, wellness and many more topics you might want to discuss! We prepared a guideline to guide you on which topics you might want to discuss with your mentor but you are **more than welcome** to discuss your own topics, ask other questions and follow your own branch!
