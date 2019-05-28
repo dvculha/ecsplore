@@ -37,17 +37,18 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * Where are you from? Which program are you coming from?
     * *Talk about transition to university if you did CEGEP or if you’re an international student, was it hard and how did you deal with it? Mention resources for international students: ISS and cultural clubs such as HKSN, European Student Society etc.*
 * Why did you choose this program?
-* How is Montreal? The weather? Nightlife?
+* How is Montreal? The weather? Nightlife? Transportation around city?
+* Residence experience?
+    * *Living with roommates? Was it loud? Dining halls? Talk about your experience!*
+* Commuting? 
+    * *Is moving downtown worth it even if my parents are living in the same city?* 
+* One piece of advice you wish you knew before you started university?
+* What is Frosh?
+    * *DO IT!! So much fun and a great way to meet with new friends and facilitate your orientation!*  
 * Best foods in Montreal?
     * *Maybe talk about Montreal must-go-s! Like Schwartz, La Banquise, Fairmount Bagels, and many more! Follow local food bloggers such as @tasteof514*
 * Cheap food around campus?
     * *Vua (also sold at the G-Store), Vinh’s, Japote, Midnight Kitchen (free vegan meals Monday to Thursday). Segals or Adonis is great for cheap groceries!*
-* Residence experience?*
-    * *Living with roommates? Was it loud? Dining halls? Talk about your experience!*
-* Commuting? Is moving downtown worth it even if my parents are living in the same city?
-* One piece of advice you wish you knew before you started university?
-* What is Frosh?
-    * *DO IT!! So much fun and a great way to meet with new friends and facilitate your orientation!*  
 
 
 #### Week 2 (August 27 - September 4)
