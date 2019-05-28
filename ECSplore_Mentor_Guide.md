@@ -48,8 +48,6 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
 * One piece of advice you wish you knew before you started university?
 * What is Frosh?
     * *DO IT!! So much fun and a great way to meet with new friends and facilitate your orientation!*  
-* Which laptop is most suitable for ECSE classes?
-    * *Don’t need a specific type of laptop but you will probably need a computer for your coding classes! There are computers in Trottier and in libraries too.*
 
 
 #### Week 2 (August 27 - September 4)
@@ -70,6 +68,8 @@ Below is a suggested timeline of topics to discuss between the mentor and mentee
     * *Don’t take anything personally - keep the end goal in mind. Accept criticism, it’s a learning experience. Everyone wants to succeed, no one is trying to ruin your group lolol*
 * Landing an internship? 
     * *Talk with your mentee about your internship experiences if you have had any, getting an internship in first year is very hard but possible, and mention useful resources which can help them land an internship such as Techfair, myFuture and MESC*
+* Which laptop is most suitable for ECSE classes?
+    * *Don’t need a specific type of laptop but you will probably need a computer for your coding classes! There are computers in MC-10, MC-50, Trottier with all the software you require installed and in libraries too.*
 
 
 #### Week 3 (September 4 - September 11)
