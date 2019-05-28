@@ -4,7 +4,7 @@ Bonjour hi! First of all, thank you so so so much for signing up to be a mentor!
 
 
 ## Program Overview
-This new program is to welcome incoming ECSIES to McGill and facilitate their integration into our department and university. Each mentor (ECSperts) will be paired with mentees and mentors will be sharing their ECSperiences on various aspects of being an ECSE student such as academics, involvement, jobs, social life and wellness!
+This new program is to welcome incoming ECSIES to McGill and facilitate their integration into our department and university. Each mentor (ECSperts) will be paired with mentees and mentors will be sharing their ECSperiences on various aspects of being an ECSE student such as academics, involvement, jobs, social life and wellness as well as answering any questions mentees might have!
 
 This is a 4-week program starting the week of August 19 and coming to an end with a **FUN** mentor-mentee social in September 19! 
 
