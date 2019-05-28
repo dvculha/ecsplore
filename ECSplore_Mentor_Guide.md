@@ -1,4 +1,5 @@
-<img src="assets/1024px-Ecsess_logo.png" alt="ECSESS Logo" height="100" />
+<img src="assets/1024px-Ecsess_logo.png" alt="ECSESS Logo" height="200" />
+
 # ECSplore First Year Mentoring Program 2019
 
 Bonjour hi! First of all, thank you so so so much for signing up to be a mentor! You’re helping to make ECSESS a better community.
