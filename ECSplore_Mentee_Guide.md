@@ -1,10 +1,10 @@
 # ECSplore 2019 Mentor Guide
 
-Bonjour hi! First of all, welcome to our department! We are so excited you will be joining us this fall. You made a great choice participating the ECSplore program. 
+Hi there! First of all, welcome to our department! We are so excited you will be joining us this fall. Furthermore, you made a great choice participating the ECSplore program, it will be super beneficial for you! 
 
 
 ## Program Overview
-This new program is to welcome incoming ECSIES to McGill and facilitate their integration into our department and university. Each mentor (ECSperts) will be paired with mentees and mentors will be sharing their ECSperiences on various aspects of being an ECSE student such as academics, involvement, jobs, social life and wellness as well as answering any questions mentees might have!
+This new program is to welcome incoming ECSIES to McGill and facilitate their integration into our department and university. Each mentor (ECSperts) will be paired with mentees and mentors will be sharing their ECSperiences on various aspects of being an ECSE student such as academics, involvement, jobs, social life and wellness as well as answering any questions mentees might have.
 
 This is a 4-week program starting the week of August 19 and coming to an end with a **FUN** mentor-mentee social in September 19! 
 
