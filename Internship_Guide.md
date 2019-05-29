@@ -1,3 +1,4 @@
 # Internship Guide
 
-Hi there! First of all, a small disclaimer: everything written in this document is my own experiences and opinions and may not reflect com
+Hi there! A small disclaimer before I start: everything written in this document is my own opinions and experiences and may not reflect the views of ECSESS or any other society, club, committee etc. I'm a part of lol :) 
+
