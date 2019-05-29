@@ -1,6 +1,6 @@
 # ecsplore
 
-### Bonjour hi and welcome to ECSplore!
+### Bonjour hi and get ready to ECSplore!
 
 If you are a mentor, thank you so much for volunteering at this program! You’re helping to make ECSESS a better community. For a more detailed **MENTOR** guide, go [here](https://github.com/dvculha/ecsplore/blob/master/ECSplore_Mentor_Guide.md)!
 
