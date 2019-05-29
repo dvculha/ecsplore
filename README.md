@@ -10,4 +10,4 @@ If you are a mentee, welcome to our department! We are so excited you will be jo
 
 If you are a current ECSE student, want to be a bae and share your ECSpertise and ECSperiences with first years, sign up by filling out the [Mentor Registration Form](https://docs.google.com/forms/d/1yP4fYtM0sOsALf6lmGs2KT1C965l_-YIeha2-6LiC6k/edit)
 
-If you are an incoming ECSE student and want to get all the tips and tricks to ECS-el in your university career, sign up to be a MENTEE by filling out [Mentee Registration Form](https://docs.google.com/forms/d/10IbJaNsGHym15OfBf3Rb0AwUuk7JFqxeO1TwIyysocU/edit)
+If you are an incoming ECSE student and want to get all the tips and tricks to ECS-el in your university career, sign up to be a MENTEE by filling out the [Mentee Registration Form](https://docs.google.com/forms/d/10IbJaNsGHym15OfBf3Rb0AwUuk7JFqxeO1TwIyysocU/edit)
