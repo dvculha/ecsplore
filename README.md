@@ -1,4 +1,4 @@
-# ecsplore
+# ECSplore
 
 ### Bonjour hi and get ready to ECSplore!
 
