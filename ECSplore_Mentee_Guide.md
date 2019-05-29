@@ -10,9 +10,9 @@ This is a 4-week program starting the week of August 19 and coming to an end wit
 
 ## Expectations from Mentees
 **PLEASE READ**
-**_THIS PART WILLBE EDITED!)_**
-* As a mentee, your role is to provide support and advice to your mentee as well as answering any /questions they might have through these 4 weeks! Don't be afraid to give your honest opinion on academics (which classes to take, profs you don't like etc.), finding internships, involvement, social life, wellness and many more topics you might want to discuss! We prepared a guideline to guide you on which topics you might want to discuss with your mentor but you are **more than welcome** to discuss your own topics, ask other questions and follow your own branch!
-///////
+
+* As a mentee, you will be paired up with a mentor and you will gain lots of valuable advice, tips and tricks on being an ECSE student. Don't be afraid to ask any and all questions you might have about academics, finding internships, involvement, social life, wellness and many more topics you might want to discuss! We prepared a guideline to guide you on which topics you might want to discuss with your mentor but you are more than welcome to discuss your own topics, ask other questions and follow your own branch!
+
 * Your mentor will be contacting you in mid-August to introduce themselves and to arrange the first meeting! The form of communication can be of any form and at any time during the specified weeks, whichever is the most accessible and convenient for both the mentor and the mentee. However, I ~~require~~ **kindly ask and strongly encourage** that you meet with your mentor at least once every week for 20-30 minutes throughout these 4 weeks for this program to bve as beneficial as possible! I also strongly encourage that your communication is of a verbal form. Phone calls, skype, facetime, meeting at a cafe are some of my recommendations! 
 
 * We will be organising a mentor-mentee social at the end of the program and you are expected to come to it! You will get to meet with your mentor in person if all your conversations were on skype or on phone! This is also a chance to meet other mentors and incoming ECSE students aka your classmates and your future ECSE 211 lab partners!
