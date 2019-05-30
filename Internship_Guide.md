@@ -17,15 +17,23 @@ Hi there! Welcome to this guide I've prepared on internships!
 1. Build your resume!
 
 * Take project classes, get involved around campus, participate in hackathons or do personal projects in your free time!
+* Learn how to build an effective resume, take CCOM206 __lol__ or participate in workshops organised by TechWeek, MESC, CaPS or even RezLife.
 
-2. Network!
+2. Find internship opportunities!
 
-Here are a few useful resources which I feel are useful to help you land an internship.
+* Use myFuture to see available opportunities in Montreal and even other cities and countries!
 
-### ECC (Engineering Career Center)
+* Network! Family, friends, friends of family, family of friends, friends of friends are all excellent resources when it comes to search for internship opportunities. They may be able to hook you up with someone they know for a job you're interested in!
 
-### TechFair
+* Go to TechFair and other networking events around campus such as speed networkings organised by POWE, SEAM, ECSESS and CSUS to build up your network!
 
-### TechWeek
+3. Interview Prep
 
-### CaPS
+* Prepare for the interview questions specifically for the position you've applied for. For example, questions they will ask for a testing role will be different from questions they would ask for a development position. You could use GlassDoor to see previous questions asked by companies in their recruitment process. 
+
+* Leet Coding and practicing questions on Cracking the Coding Interview book is a great idea!
+
+* You could arrange yourself a mock interview in ECC before your interviews in MESC (in FDA)!
+
+
+## Making the most out of your internship
